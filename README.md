@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=120&section=header&text="/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=gradient&center=true&vCenter=true&random=false&width=520&lines=I'm+Sanjeew+Aroshana.;Python+%26+Web+Developer.;Bsc+in+IT+University+of+Moratuwa." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=gradient&center=true&vCenter=true&random=false&width=650&lines=I'm+Sanjeew+Aroshana.;Python+%26+Web+Developer.;BSc+in+IT+University+of+Moratuwa." alt="Typing SVG"/>
 </h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanjeew-aroshana/)
@@ -56,12 +56,12 @@ Here are some ideas to get you started:
 
 ```javascript
 const skills = {
-    languages: ['Python', 'JavaScript', 'Java', 'C++', 'TypeScript'],
+    languages: ['Python', 'JavaScript','C++', 'TypeScript'],
     frontend: ['React', 'Next.js', 'HTML5', 'CSS3', 'TailwindCSS'],
-    backend: ['Node.js', 'Express.js', 'FastAPI'],
+    backend: ['Node.js', 'Django', 'RestAPI'],
     database: ['MongoDB', 'MySQL', 'PostgreSQL'],
-    cloud: ['AWS', 'Docker', 'Serverless'],
-    tools: ['Git', 'Linux', 'VS Code', 'Postman']
+    cloud: ['AWS','Oracal', 'Docker'],
+    tools: ['Git', 'Linux', 'VS Code', 'pycharm']
 };
 
 ```
