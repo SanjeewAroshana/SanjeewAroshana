@@ -70,10 +70,10 @@ const skills = {
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SureshAriyadasa&theme=dark)](https://github.com/SanjeewAroshana)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanjeewAroshana&theme=dark)](https://github.com/SanjeewAroshana)
 
 <!-- Replace USERNAME with your GitHub username -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SureshAriyadasa&layout=compact&theme=dracula&count_private=true&hide_border=true&bg_color=0D1117&title_color=f85149&icon_color=f85149) </br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeewAroshana&layout=compact&theme=dracula&count_private=true&hide_border=true&bg_color=0D1117&title_color=f85149&icon_color=f85149) </br>
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SanjeewAroshana&show_icons=true&theme=dracula&count_private=true)](https://github.com/SanjeewAroshana)
 </div>
 
