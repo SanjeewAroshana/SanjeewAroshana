@@ -1,3 +1,21 @@
+## Hi there 👋
+
+<!--
+**SanjeewAroshana/SanjeewAroshana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
 <div align="center">
 
 <!-- Wave Animation Top -->
@@ -45,3 +63,29 @@ const skills = {
     cloud: ['AWS', 'Docker', 'Serverless'],
     tools: ['Git', 'Linux', 'VS Code', 'Postman']
 };
+
+```
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SureshAriyadasa&theme=dark)](https://github.com/SureshAriyadasa)
+
+<!-- Replace USERNAME with your GitHub username -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SureshAriyadasa&layout=compact&theme=dracula&count_private=true&hide_border=true&bg_color=0D1117&title_color=f85149&icon_color=f85149) </br>
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SureshAriyadasa&show_icons=true&theme=dracula&count_private=true)](https://github.com/SureshAriyadasa)
+</div>
+
+<!-- Wave Animation Bottom -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=120&section=footer"/>
+
+</div>
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome)](https://suredev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suresh-ariyadasa/)
+
+</div>
+
+
