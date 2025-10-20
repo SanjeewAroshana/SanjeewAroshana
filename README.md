@@ -83,7 +83,7 @@ const skills = {
 </div>
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome)](https://suredev.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://lk.linkedin.com/in/sanjeew-aroshana-387871238/)
 
 </div>
