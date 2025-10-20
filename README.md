@@ -70,11 +70,11 @@ const skills = {
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SureshAriyadasa&theme=dark)](https://github.com/SureshAriyadasa)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SureshAriyadasa&theme=dark)](https://github.com/SanjeewAroshana)
 
 <!-- Replace USERNAME with your GitHub username -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SureshAriyadasa&layout=compact&theme=dracula&count_private=true&hide_border=true&bg_color=0D1117&title_color=f85149&icon_color=f85149) </br>
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SureshAriyadasa&show_icons=true&theme=dracula&count_private=true)](https://github.com/SureshAriyadasa)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SanjeewAroshana&show_icons=true&theme=dracula&count_private=true)](https://github.com/SanjeewAroshana)
 </div>
 
 <!-- Wave Animation Bottom -->
@@ -84,7 +84,7 @@ const skills = {
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome)](https://suredev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suresh-ariyadasa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://lk.linkedin.com/in/sanjeew-aroshana-387871238/)
 
 </div>
 
